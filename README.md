@@ -9,8 +9,6 @@
   <img align="center" alt="Rhazek-CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rhazek-Nodejs" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
-  
-  ##
 
 ## Contact
 <div>
