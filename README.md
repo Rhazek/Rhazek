@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+- 👽 Pleasure, my name is Matheus Rhazek ; 
+- 👨‍💻 Always learning the Art of Programming;
+
+
 <div align="center">
   <a href="https://github.com/Rhazek">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhazek&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhazek&layout=compact&langs_count=7&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rhazek&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhazek&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 ## Technologies
