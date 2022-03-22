@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👾 Pleasure, my name is Matheus Rhazek 
+- 👾 Hey, my name is Matheus Rhazek 
 - 🎨 I’m currently learning programming and its mysteries
 
 
