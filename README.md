@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👾 Hey, my name is Matheus Rhazek 
-- 🎨 I’m currently learning programming and its mysteries
+- 🎨 I’m currently learning everything about technology and software development
 
 
 <div align="center">
@@ -22,13 +22,10 @@
   <img align="center" alt="Rhazek-Bootstrap" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   </div>
 
-## Contact
+## Contact<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+[<img src="https://img.icons8.com/office/32/000000/whatsapp--v3.png" alt="Whatsapp logo" >](https://api.whatsapp.com/send?phone=5598991506026&text=Ol%C3%A1%2C%20Rhazek.%20Tudo%20bem%3F) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/matheus-rhazek-a1537022b/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Rhazek)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:matheusrhazek1@gmail.com)
 <div>
-<a href="https://www.instagram.com/rhazek_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:matheusrhazek1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://api.whatsapp.com/send?phone=5598991506026&text=Ol%C3%A1%2C%20Rhazek.%20Tudo%20bem%3F"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href = "https://www.linkedin.com/in/matheus-rhazek-a1537022b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+
   ![Snake animation](https://github.com/rhazek/rhazek/blob/output/github-contribution-grid-snake.svg)
   
 </div>
