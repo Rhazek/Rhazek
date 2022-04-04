@@ -1,6 +1,7 @@
-### Hi there 👋
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world! I'm Matheus Rhazek!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 👾 Hey, my name is Matheus Rhazek 
+- 🖥️ Web Development student!
+- 🗺️ I’m from São Luís-MA, Brazil.
 - 🎨 I’m currently learning everything about technology and software development
 
 
