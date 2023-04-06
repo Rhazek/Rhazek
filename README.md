@@ -25,11 +25,6 @@
 
 ## Contact<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 [<img src="https://img.icons8.com/office/32/000000/whatsapp--v3.png" alt="Whatsapp logo" width="42">](https://api.whatsapp.com/send?phone=5598991506026&text=Ol%C3%A1%2C%20Rhazek.%20Tudo%20bem%3F) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="42">](https://www.linkedin.com/in/matheus-rhazek-a1537022b/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="44">](https://github.com/Rhazek)   [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="42">](mailto:matheusrhazek1@gmail.com)
-<div>
-
-  ![Snake animation](https://github.com/rhazek/rhazek/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
   
   ## Total visits on my profile :detective:
 
